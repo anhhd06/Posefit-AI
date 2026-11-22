@@ -1,0 +1,19 @@
+# Môi trường ảo (Virtual Environment)
+venv/
+.venv/
+env/
+
+# File tạm và cache của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File chứa biến môi trường / mật khẩu
+.env
+.env.*
+
+# Cấu hình cá nhân của IDE & hệ điều hành
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
