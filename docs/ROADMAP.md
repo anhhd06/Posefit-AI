@@ -3,7 +3,7 @@ Mục tiêu: Xong phần xương sống Web + MySQL trong 7 ngày để yên tâ
 [ ] Ngày 1–2: Clone repo posefit, tạo venv, dựng cấu trúc thư mục, thiết kế và chạy database/schema.sql (4 bảng: users, exercises, workout_plans, workout_logs) trên MySQL Workbench.
 
 [ ] Ngày 3–4: Dựng khung base.html bằng Bootstrap 5 CDN; làm Đăng ký (hash mật khẩu), Đăng nhập, Đăng xuất, Hồ sơ cá nhân (tính BMI).
-
+    
 [ ] Ngày 5–6: Làm CRUD Danh mục bài tập (có tìm kiếm/lọc) và CRUD Lập lịch tập theo ngày (chọn bài, đặt mục tiêu reps).
 
 [ ] Ngày 7: Kiểm thử lại toàn bộ luồng CRUD với MySQL, đẩy code ổn định lên GitHub.
