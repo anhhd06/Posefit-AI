@@ -1,6 +1,6 @@
 Tuần 1: Dựng khung dự án & Web CRUD cơ bản
 Mục tiêu: Xong phần xương sống Web + MySQL trong 7 ngày để yên tâm tập trung cho AI.
-[ ] Ngày 1–2: Clone repo posefit, tạo venv, dựng cấu trúc thư mục, thiết kế và chạy database/schema.sql (4 bảng: users, exercises, workout_plans, workout_logs) trên MySQL Workbench.
+[x] Ngày 1–2: Clone repo posefit, tạo venv, dựng cấu trúc thư mục, thiết kế và chạy database/schema.sql (5 bảng: users, exercises, workout_plans, workout_plan_items, workout_logs) trên MySQL Workbench.
 
 [ ] Ngày 3–4: Dựng khung base.html bằng Bootstrap 5 CDN; làm Đăng ký (hash mật khẩu), Đăng nhập, Đăng xuất, Hồ sơ cá nhân (tính BMI).
     
